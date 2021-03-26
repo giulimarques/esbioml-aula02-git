@@ -1,0 +1,6 @@
+*.csv
+*.fastq
+*.fasta
+*.sam
+*.bam
+
